@@ -1,0 +1,183 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f1f1f1da;
+    color: #333;
+ }
+ p {
+    margin: 0;
+  font-weight: bold;
+  font-size: large;
+ }
+ section a {
+   font-size: small;
+   color:#ff6f00;
+   text-decoration: none;
+}
+ span{
+    font-size: small;
+    color:#ff6f00;
+      text-decoration: none;
+ }
+ 
+ article img{
+   width: 100%;
+ }
+ header {
+    width: 100%;
+    border-top: #e61532;
+    color: #fff;
+    text-align: center;
+    padding: 10px 10px 2px 2px;
+ }
+ 
+ nav {
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    align-items: center;
+ }
+ 
+ nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-top-right-radius: 5px ;
+    border-color: #333;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+ }
+ nav ul li {
+    
+    border-top-right-radius: 3px ;
+    border-color: #333;
+    
+ }
+ 
+ nav ul li a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bolder;
+    border-color: #333;
+ }
+ 
+ .logo{
+   background-color: #fff;
+  padding-bottom: 1%;
+  padding-top: 1%;
+   height: 95%;
+   width: 100%;
+ }
+ 
+ .sport {
+    width: 60%;
+    background-color: #ff6f00fa;
+    color: #fff;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 10px;
+   
+ }
+ 
+ .show {
+    width: 60%;
+    background-color: #f31616;
+    color: #fff;
+    text-align: center;
+    font-weight: lighter;
+    
+    
+ }
+ .sadrzaj p{
+   font-size: medium;
+   
+ }
+
+ 
+ .content {
+    width: 60%;
+    justify-content: space-around;
+    background-color: #fff;
+    box-shadow: 5px rgba(32, 32, 32, 0.1);
+    margin-bottom: 1.5%;
+    flex-direction: row;
+    display: flex;
+    font-size: larger;
+ }
+ 
+article {
+    width: 30%;
+    background-color: #fff;
+    padding: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: larger;
+    font-weight: bolder;
+    
+ }
+ .clanak{
+   width: 55%;
+   background-color: #fff;
+   align-items: center;
+   margin: 2%;
+
+ }
+ .cnaziv{
+   font-size: xx-large;
+ }
+ .slika{
+   width: 100%;
+ 
+ }
+ .slika img{
+   width: 100%;
+ 
+ }
+ footer p {
+   
+    background-color:#ccc6c6;
+    color:#333;
+    text-align: center;
+    padding: 2%;
+    font-size: small;
+    font-weight: lighter;
+    
+ }
+ footer {
+    background-color: #444444;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+ }
+ .prijava{
+   margin: 10%;
+ }
+
+
+ .filler{
+   background-color: #686868;
+   padding-bottom: 8%;
+   width: 60%;
+
+ }
+ header {
+    background-color: #e61532;
+ 
+ 
+ }
+ .logo {
+    font-size: 2em;
+    font-weight: bold;
+    background-color: #fff;
+    color: #e61532;
+ }
+ .logger{
+   margin: 2%;
+ }
